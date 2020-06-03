@@ -1,0 +1,23 @@
+{
+  "name": "example-onboarding-flow",
+  "version": "1.0.0",
+  "description": "It will probably be helpful. Eventually.",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy --input src --output dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlengstorf/example-onboarding-flow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlengstorf/example-onboarding-flow/issues"
+  },
+  "homepage": "https://github.com/jlengstorf/example-onboarding-flow#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
