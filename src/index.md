@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Set up your new CorgiCMS site!
+title: Set up your new site!
 ---
 
-> **NOTE:** This is a demo. CorgiCMS is not a real thing. But it should be.
+Your site was successfully deployed, but it still needs to be configured. To finish the setup, follow the steps below!
 
 ## Step 1: Get the required environment variables
 
